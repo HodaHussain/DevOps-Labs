@@ -45,3 +45,11 @@ The multi-stage build reduced image size and allowed the application to run as a
 
 ## Screenshots
 Screenshots will be added to this repository after uploading them.
+<img width="1021" height="557" alt="Screenshot 2026-10-23 104512" src="https://github.com/user-attachments/assets/547f349d-0415-4d69-8bee-7807f56b2888" />
+<img width="1007" height="450" alt="Screenshot 2026-10-23 174312" src="https://github.com/user-attachments/assets/abaf9587-c07e-4cdd-b0d2-8755c7261dc0" />
+<img width="1021" height="250" alt="Screenshot 2026-10-23 173449" src="https://github.com/user-attachments/assets/ee1927fe-29a5-4742-b578-a73250dec540" />
+<img width="1060" height="95" alt="Screenshot 2026-10-23 171510" src="https://github.com/user-attachments/assets/f955aff1-f718-46e3-aba7-c52401f2e4f6" />
+<img width="1012" height="447" alt="Screenshot 2026-10-23 112019" src="https://github.com/user-attachments/assets/227aa6be-2bd5-469b-916b-ae7e8b5f7471" />
+<img width="997" height="328" alt="Screenshot 2026-10-23 111534" src="https://github.com/user-attachments/assets/7e349b42-63d4-4d24-8cc2-0e2e43e8c9ec" />
+<img width="880" height="726" alt="Screenshot 2026-10-23 110447" src="https://github.com/user-attachments/assets/7a8b8371-4d1e-44a9-b6cb-29f3d3d20c44" />
+
